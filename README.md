@@ -7,7 +7,7 @@ I don't intend to develop robots_rules.rb. The main goal of this
 repository is publish a license (MIT) for robots_rules.rb, originaly
 divulgated by James Edward Gray II here[1].
 
-James send me the license, via email, after I asked him. He used a
+James sent me the license, via email, after I asked him. He used a
 GPG signed message to do it (file permission.txt). The public key of
 James is 7C2C7118.
 
