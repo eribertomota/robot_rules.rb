@@ -1,0 +1,13 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+I grant Eriberto Mota permission to rerelease my robot_rules.rb code (http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/177589), copyright 2006 by my company Gray Productions.  The license of the code may be changed to the MIT open source license as part of the rerelease.  Eriberto Mota will be the maintainer of this code upon rerelease with all the rights that entails.
+
+James Edward Gray II
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEARECAAYFAlSQP1AACgkQDKqwmHwscRhaPQCfc/ex9MsJMTG2s1zryH9pv+K3
+14QAoI9V8n3KgoBVMd7k/3t8AfqFmFQh
+=ujDN
+-----END PGP SIGNATURE-----
